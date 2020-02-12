@@ -4,3 +4,5 @@ Word Count with Go
 2) Simple wordcount application in GO
 3) Sequential MapReduce-based worcount with multiple mappers and multiple reducers
 4) MapReduce-based Shared Memory Parallel with multiple mappers and multiple reducers
+
+![alt text](tests.png)
